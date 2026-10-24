@@ -3,7 +3,7 @@
 
 # Hi 👋, I'm Lian
 
-### JavaScript / Node.js Full Stack Developer
+### JavaScript / Node.js / Foxpro Full Stack Developer
 #### Enterprise Web Applications & Windows Desktop Software
 
 Building practical software solutions for businesses.
