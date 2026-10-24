@@ -16,7 +16,7 @@ Building practical software solutions for businesses.
 
 - 💻 I'm a **JavaScript / Node.js Full Stack Developer**.
 - 🔧 I build enterprise web applications using **HTML5, CSS3, JavaScript, Node.js, Express.js, and MySQL**.
-- 🖥️ I develop Windows desktop applications using **Electron**.
+- 🖥️ I develop Windows desktop applications using **Electron** or **Foxpro**.
 - 🏢 I focus on ERP systems, financial software, database backup tools, and business management solutions.
 - 🌱 Always learning and exploring new technologies.
 
