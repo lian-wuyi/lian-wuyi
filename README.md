@@ -55,11 +55,12 @@ Building practical software solutions for businesses.
 ### 📫 Connect With Me
 
 - GitHub: [lian-wuyi](https://github.com/lian-wuyi)
-
+- Email: lianwuyi@163.com
+- 
 ---
 
 <div align="center">
 
 **Code. Build. Improve.**
-Email: lianwuyi@163.com
+
 </div>
