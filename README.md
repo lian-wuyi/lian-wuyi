@@ -56,7 +56,7 @@ Building practical software solutions for businesses.
 
 - GitHub: [lian-wuyi](https://github.com/lian-wuyi)
 - Email: lianwuyi@163.com
-- 
+
 ---
 
 <div align="center">
